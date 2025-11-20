@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time: 0 | Sel: 0 | A: 0 | B: 0 | Output Q: 0
+--- Testing Select = 0 (Passing A) ---
+Time: 10000 | Sel: 0 | A: 0 | B: 1 | Output Q: 0
+Time: 20000 | Sel: 0 | A: 1 | B: 0 | Output Q: 1
+--- Testing Select = 1 (Passing B) ---
+Time: 30000 | Sel: 1 | A: 1 | B: 0 | Output Q: 0
+Time: 40000 | Sel: 1 | A: 0 | B: 1 | Output Q: 1
+--- Testing Dynamic Switching ---
+Time: 50000 | Sel: 0 | A: 1 | B: 0 | Output Q: 1
+Time: 60000 | Sel: 1 | A: 1 | B: 0 | Output Q: 0
+Time: 70000 | Sel: 0 | A: 1 | B: 0 | Output Q: 1
+Test Complete.
+$finish called at time : 80 ns : File "C:/Users/pyqui/OneDrive/Work/2-1mux/2-1mux.srcs/sim_1/new/tb_main.sv" Line 101

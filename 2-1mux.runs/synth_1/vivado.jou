@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Thu Nov 20 17:54:07 2025
+# Process ID         : 33260
+# Current directory  : C:/Users/pyqui/OneDrive/Work/2-1mux/2-1mux.runs/synth_1
+# Command line       : vivado.exe -log main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source main.tcl
+# Log file           : C:/Users/pyqui/OneDrive/Work/2-1mux/2-1mux.runs/synth_1/main.vds
+# Journal file       : C:/Users/pyqui/OneDrive/Work/2-1mux/2-1mux.runs/synth_1\vivado.jou
+# Running On         : Quinn
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 7 256V
+# CPU Frequency      : 3302 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 8
+# Host memory        : 16811 MB
+# Swap memory        : 26843 MB
+# Total Virtual      : 43654 MB
+# Available Virtual  : 13992 MB
+#-----------------------------------------------------------
+source main.tcl -notrace
